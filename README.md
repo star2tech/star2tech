@@ -18,8 +18,8 @@ I am a motivated and dedicated girl, and I am 14, also a straight-A 4.0 GPA stud
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=star2tech&limit=5&theme=default&combine_all_yearly_contributions=true)
+### 🔝 HacTime
+![]([https://github-contributor-stats.vercel.app/api?username=star2tech&limit=5&theme=default&combine_all_yearly_contributions=true](https://github-readme-stats.hackclub.dev/api/wakatime?username=33224&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=star2tech&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
