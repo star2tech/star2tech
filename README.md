@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I'm%20Hiwot!&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Builder%20%E2%80%A2%20Math%20Lover%20%E2%80%A2%20Artist&descSize=20&descAlignY=60" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B28CFF&center=true&vCenter=true&width=650&lines=Building+StudentCal+%F0%9F%93%85;Making+student+life+less+overwhelming+%F0%9F%8C%B1;Math+%E2%9E%97+%2B+Art+%F0%9F%8E%A8+%2B+Code+%F0%9F%92%BB;Always+learning+something+new+%E2%9C%A8" alt="Typing animation" />
-
+<img src="assets/header.svg" alt="Hiwot: student, builder, math and art" /> <img src="assets/ticker.svg" alt="Projects: StudentCal, VibrantLife, EEG Decode Replay Studio" />
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-hiwot.page.gd-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hiwot.page.gd)
