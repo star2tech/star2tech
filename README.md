@@ -124,6 +124,25 @@ A tool for replaying and exploring EEG data.
 
 </details>
 
+## Bookshelf
+
+![Eight books on my bookshelf](./assets/bookshelf.svg)
+
+<details>
+<summary>Books on this shelf</summary>
+
+- Fahrenheit 451 — Ray Bradbury
+- 1984 — George Orwell
+- The Princess Saves Herself in This One — Amanda Lovelace
+- First to a Million — Dan Sheeks
+- Atomic Habits — James Clear
+- Thinking, Fast and Slow — Daniel Kahneman
+- This Heart of Mine — C.C. Hunter
+- The Courage to Be Disliked — Ichiro Kishimi and Fumitake Koga
+
+</details>
+
+
 <div align="center">
 
 ### ☕ Enjoy my projects? You can support me!
